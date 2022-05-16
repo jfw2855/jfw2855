@@ -7,7 +7,7 @@
 ### &nbsp;About Me
 💻 Full Stack Software Engineer - open to work!\
 👨🏻‍💻 Currently working on a Django + React app\
-❤️ Love to travel & cook\
+❤️ Love to cook & travel\
 ✉️ Feel free to send me an email at justinfrankwaddle@gmail.com
 
 
