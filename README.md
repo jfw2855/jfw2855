@@ -1,4 +1,4 @@
-## Hello! My name is Justin 👋🏻 <a href="https://linkedin.com/in/justinwaddle"><img src="https://img.shields.io/badge/-Justin%20Waddle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+## Hello! My name is Justin 👋🏻 
 
 
 
@@ -8,7 +8,7 @@
 💻 Full Stack Software Engineer - open to work!\
 👨🏻‍💻 Currently working on a Django + React app\
 ❤️ Love to cook & travel\
-✉️ Feel free to send me an email at justinfrankwaddle@gmail.com
+✉️ Feel free to send me an email at justinfrankwaddle@gmail.com or connect with me on <a href="https://linkedin.com/in/justinwaddle"><img src="https://img.shields.io/badge/-Justin%20Waddle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
 
