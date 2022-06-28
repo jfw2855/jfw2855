@@ -1,13 +1,6 @@
-## Hello! My name is Justin 👋🏻 
+## Hi, my name is Justin 👋🏻 
 
 
-
-
-
-### &nbsp;About Me
-💻 Full Stack Software Engineer - open to work!\
-👨🏻‍💻 Currently working on a Bug Tracker app\
-❤️ Love to cook & travel\
 ✉️ Feel free to send me an email at justinfrankwaddle@gmail.com or connect with me on <a href="https://linkedin.com/in/justinwaddle"><img src="https://img.shields.io/badge/-Justin%20Waddle-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
